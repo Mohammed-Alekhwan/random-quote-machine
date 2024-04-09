@@ -24,7 +24,3 @@ This is a simple web application built using React that generates random quotes 
 5. Open your web browser and go to `http://localhost:3000` to view the application.
 
 Feel free to contribute or provide feedback!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
